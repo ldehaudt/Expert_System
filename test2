@@ -1,0 +1,10 @@
+B|C+D=>A
+!(H^!(D|E))=>B
+!(!E|B)+D+E=>C
+!F+(G|E)=>D
+C=>!F+H
+J=>E|I
+J^!B=>H
+K<=>!I
+=JKBD
+?ABCDEFGHI

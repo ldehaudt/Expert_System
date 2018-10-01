@@ -1,0 +1,10 @@
+B | C + D => A
+! (H ^ !( D|E ))=>B
+D+E=>C
+G|E=>D
+C=>!F+H
+J=>E
+K=>!I
+
+=JK
+?ABCDEFGHIJK

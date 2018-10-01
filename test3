@@ -1,0 +1,6 @@
+(A ^ !B) | A + B => C ^ D
+(A ^ C) <=> E
+((E ^ S) | (F ^ D)) + (A | (B ^ C)) => G | C
+
+=ABD
+?CEG
